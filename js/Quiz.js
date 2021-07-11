@@ -30,7 +30,7 @@ class Quiz {
 
   play(){
     question.hide();
-    background("Yellow");
+    background("white");
     fill(0);
     textSize(30);
     text("Result of the Quiz",340, 50);
